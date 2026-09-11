@@ -29,11 +29,12 @@ This project analyzes HR employee attrition data to identify workforce trends, u
 - Built an interactive Power BI dashboard for HR decision-making.
 
 ## 📂 Repository Contents
-- SQL_Queries.sql
-- HR_Employee_Attrition.pbix
-- Dashboard Screenshot
-- Dataset
-
+- SQL_Queries.sql — SQL analysis queries
+- Employee_Attrition_Dashboard.pbix — Power BI dashboard
+- Overview.png — Overview dashboard screenshot
+- Employee.png — Employee details screenshot
+- Insights.png — Insights dashboard screenshot
+  
 ## Dashboard Preview
 
 ### Overview
