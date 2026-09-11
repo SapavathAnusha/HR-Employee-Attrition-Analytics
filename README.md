@@ -34,5 +34,16 @@ This project analyzes HR employee attrition data to identify workforce trends, u
 - Dashboard Screenshot
 - Dataset
 
+## Dashboard Preview
+
+### Overview
+![Overview Dashboard](Overview.png)
+
+### Employee Details
+![Employee Dashboard](Employee.png)
+
+### Insights
+![Insights Dashboard](Insights.png)
+
 ## 👩‍💻 Author
 Anusha Sapavath
